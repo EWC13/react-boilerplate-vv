@@ -52,7 +52,7 @@
 ## Features
 
 <dl>
-  <dt>Quick scaffolding</dt>
+  <dt>Fast scaffolding</dt>
   <dd>Create components, containers, routes, selectors and sagas - and their tests - right from the CLI!</dd>
 
   <dt>Instant feedback</dt>
